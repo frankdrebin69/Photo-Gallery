@@ -27,7 +27,7 @@ var imagesData = [
         photo: "images/05.jpg ",
         thumb: "images/thumbnails/05.jpg ",
         title: "'Palace of Versailles' Paris, France",
-        description: "The Palace of Versailles (or Château de Versailles) is one of the most spectacular achievements of 18th-century French art. The site began as Louis XIII’s hunting lodge before his son Louis XIV transformed and expanded it, moving the court and government of France to Versailles in 1682. (From: castlesandmanorhouses.com) "
+        description: "The Palace of Versailles (or Château de Versailles) is one of the most spectacular achievements of 18th-century French art. The site began as Louis XIII’s hunting lodge before his son Louis XIV transformed and expanded it, moving the court and government of France to Versailles in 1682. (From: castlesandmanorhouses.com)"
     },
     {
         photo: "images/06.jpg ",
